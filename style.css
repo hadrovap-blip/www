@@ -1,0 +1,23 @@
+body{background-color: #ffccf0;
+color: black;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 16px;}
+h1{text-align: center;}
+p{width: 600px;
+margin-left:  300px;
+line-height: 1.5;
+text-align: justify;}
+nav{padding-left: 50px;
+width: 200px;
+line-height: 2;
+
+}
+.vpravo{float: right;}
+.vlevo{float: left;}
+
+img{margin-right: 100px;}
+
+a:link{color: hotpink;text-decoration: none;}
+a:visited{color: deeppink;}
+a:active{color: orchid;text-decoration: underline;}
+a:hover{color: beige;background-color: hotpink;text-decoration: underline;}
